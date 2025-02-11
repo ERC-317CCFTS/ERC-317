@@ -2,6 +2,8 @@
 Cross-Chain Fee Settlement Token
 # ERC-317 Cross-Chain Fee Settlement Token (CCSFT)
 
+Warning: Currently in Beta
+
 This project is an implementation of **ERC-317**, a token standard designed to facilitate **cross-chain fee settlement** in decentralized finance (DeFi) platforms.
 
 ## Project Structure
