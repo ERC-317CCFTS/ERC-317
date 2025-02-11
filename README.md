@@ -35,4 +35,5 @@ Run the deployERC317Token.js script to deploy the ERC-317 token.
 Run the deployFeeHandler.js and bridgeDeployment.js scripts for deploying the handler and bridge contracts.
 
 3. Run Test
-  -- npx hardhat test
+```bash
+   npx hardhat test
