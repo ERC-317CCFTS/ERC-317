@@ -29,3 +29,10 @@ This project is an implementation of **ERC-317**, a token standard designed to f
 1. Install dependencies:
    ```bash
    npm install
+2. Deploy the contracts:
+
+Run the deployERC317Token.js script to deploy the ERC-317 token.
+Run the deployFeeHandler.js and bridgeDeployment.js scripts for deploying the handler and bridge contracts.
+
+3. Run Test
+  -- npx hardhat test
